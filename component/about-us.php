@@ -1,5 +1,5 @@
-<div class="container">
-    <div class="about-me-wrapper">
+<div class="container" >
+    <div class="about-me-wrapper" id="about-me-wrapper">
         <div class="picture-holder">
             <picture>
                 <source media="(max-width: 600px )" srcset="img/ton-t-small.webp" width="281" height="287">

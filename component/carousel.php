@@ -1,5 +1,5 @@
  <!-- Carousel Start -->
- <div class="container-fluid p-0 mb-5">
+ <div class="container-fluid p-0 mb-3">
      <div id="header-carousel" class="carousel slide carousel-fade" data-ride="carousel">
          <ol class="carousel-indicators">
              <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
@@ -17,8 +17,8 @@
                      <div class="p-5" style="width: 100%; max-width: 900px;">
                          <h5 class="text-white text-uppercase mb-md-3">HELLO !</h5>
                          <h1 class="display-3 text-white mb-md-4"> I'm Toyin Ajiboye.
-                             A Full-Stack Developer</h1>
-                         <a href="" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Learn More</a>
+                             Web Fullstack Developer</h1>
+                         <a href="#about-me-wrapper"  class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2">Learn More</a>
                      </div>
                  </div>
              </div>

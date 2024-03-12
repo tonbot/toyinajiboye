@@ -1,8 +1,8 @@
-<div class="container-fluid pt-5 pb-3">
+<div class="container-fluid pt-5 pb-3 creative-service-main-wrapper ">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-4 mb-5">
-                            <small class="bg-primary text-dark text-uppercase font-weight-bold px-1">What I do</small>
+                        <div class="col-lg-4 mb-5 creative-service-wrapper">
+                            <!-- <small class="bg-primary text-dark text-uppercase font-weight-bold px-1">What I do</small> -->
                             <h1 class="mt-2 mb-3">I Offer Creative Services</h1>
                             <h4 class="font-weight-normal text-muted mb-4">
                                 As a developer, I specialize in creating unique and custom-built websites that reflect your brand's personality and values.</h4>

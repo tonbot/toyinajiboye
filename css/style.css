@@ -2,6 +2,8 @@ body,
 main {
   width: 100vw;
   height: auto;
+  scroll-behavior: smooth;
+  transition-timing-function: ease;
 }
 .input-group-text input[type="checkbox"],
 .input-group-text input[type="radio"],
@@ -138,6 +140,7 @@ body {
   font-weight: 400;
   color: #4a4a4a;
   background-color: #fff;
+  
 }
 .alert-link,
 dt,
@@ -147,6 +150,17 @@ kbd kbd {
 main {
   padding: 0;
 }
+
+.creative-service-main-wrapper{
+  background-color: black;
+  color: #fff;
+}
+
+.creative-service-main-wrapper h1, .creative-service-main-wrapper h4{
+  color: #fff;
+}
+
+
 @media screen and (max-width: 767px) {
   main {
     padding: 0 2vw;
@@ -169,12 +183,16 @@ main {
     height: auto;
     padding: 40px 0;
   }
+  .my-social-wrapper{
+    margin-bottom: 20px;
+  }
   .my-social-wrapper > div {
     border: 1px solid #e5e5e5;
     display: flex;
     float: row;
     align-items: center;
     padding: 0 20px;
+   
   }
 }
 .img-fluid,
@@ -8157,8 +8175,11 @@ h6 {
     font-size: 16px;
   }
   .carousel-caption h1 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 700 !important;
+  }
+  .carousel-indicators{
+    display: none !important;
   }
 }
 .page-header {
