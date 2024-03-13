@@ -1,5 +1,5 @@
 <div class="container-fluid pt-5">
-                <div class="container">
+                <div class="container" id="pricing-wrapper">
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="row">

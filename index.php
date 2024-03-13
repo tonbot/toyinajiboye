@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>toyin ajiboye</title>
+    <title>toyin ajiboye web portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Toyin Ajiboye portfolio, web developer, Software, mobile developer, IT Support" name="keyword">
     <meta content="Toyin Ajiboye web portfolio" name="description">

@@ -1,6 +1,5 @@
 (function ($) {
     "use strict";
-    
     // Dropdown on mouse hover
     $(document).ready(function () {
         function toggleNavbarMethod() {
@@ -32,6 +31,13 @@
         return false;
     });
 
+
+    $('.page-nav').click(function (e) {
+        e.preventDefault();
+        var targetId = $(this).attr('href');
+        var targetOffset = $(targetId).offset().top; 
+        $('html, body').animate({scrollTop: targetOffset}, 1500, 'easeInOutExpo'); 
+    });
 
     // Facts counter
     $('[data-toggle="counter-up"]').counterUp({
